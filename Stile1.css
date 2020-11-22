@@ -1,0 +1,15 @@
+﻿body{
+    background-color:black;
+}
+
+.coming {
+    padding: 50px;
+    text-align: center;
+    margin: 0 auto;
+    justify-content: center;
+    font-family: 'Courier New';
+    text-shadow: 5px 5px #b900ff;
+    color: #29ABE2;
+    font-weight: bold;
+    font-size: 75px;
+}
