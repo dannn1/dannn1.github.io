@@ -1,3 +1,41 @@
-﻿*{
-    background-color:black;
+﻿* {
+    background-color: black;
+    box-sizing:border-box;
+
+}
+h1 {
+    padding-top:50px;
+    padding-left:10px;
+    text-align: left;
+    margin: auto;
+    justify-content: center;
+    font-family: 'Courier New';
+    text-shadow: 3px 3px #b900ff;
+    color: #29ABE2;
+    font-weight: bold;
+    font-size: 55px;
+}
+
+.logo {
+    margin: 0 auto;
+    justify-content: center;
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px #b900ff;
+    font-family: 'Courier New';
+    font-size: 50px;
+    line-height: 0px;
+}
+
+
+    #pic:hover {
+        margin: 0 auto;
+        justify-content: center;
+        content: url("./Immagini/PolarEnter.svg");
+        padding-left:15px;
+    }
+#pic {
+    padding-left: 15px;
 }
