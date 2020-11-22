@@ -13,3 +13,7 @@
     font-weight: bold;
     font-size: 75px;
 }
+
+img:hover {
+    content: url("./Immagini/PolarEnter.svg");
+}
